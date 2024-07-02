@@ -71,7 +71,7 @@ const Footer = (props) => {
           </a>
         )}
         {gitHub && (
-          <a href={`https://github.com/${gitHub}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://github.com/alk231/my_js_repo.git`} target="_blank" rel="noopener noreferrer">
             <img src={gitHubIcon} alt="GitHub" className="socialIcon" />
           </a>
         )}
@@ -86,7 +86,7 @@ const Footer = (props) => {
         )}
         {linkedIn && (
           <a
-            href={`https://www.linkedin.com/in/${linkedIn}`}
+            href={`https://www.linkedin.com/in/alok-kumar-gupta-0b6b76262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app`}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -105,7 +105,7 @@ const Footer = (props) => {
         )}
         {youTube && (
           <a
-            href={`https://www.youtube.com/c/${youTube}`}
+            href={`https://www.youtube.com/channel/UC4AaDIGBMnsZxXJwlo6pGPg`}
             target="_blank"
             rel="noopener noreferrer"
           >

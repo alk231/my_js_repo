@@ -24,9 +24,9 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
+  name: "Alok Kumar",
+  title: "Web Designer",
+  email: "kumaralokown@gmail.com",
   gitHub: "microsoft",
   instagram: "microsoft",
   linkedIn: "satyanadella",
@@ -35,8 +35,8 @@ const siteProps = {
   youTube: "Code",
 };
 
-const primaryColor = "#4E567E";
-const secondaryColor = "#D2F1E4";
+const primaryColor = "#4E567F";
+const secondaryColor = "#D2F1E5";
 
 const App = () => {
   return (
